@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
   "author": "Phu Nguyen",
-  "name": "Whatsapp Web Camera Timer",
+  "name": "Watsapp Web Camera Timer",
   "short_name": "Camera Timer",
-  "description": "This extension will set a timer for WhatsApp Web camera.",
+  "description": "This extension will set a timer for WatsApp Web camera (letter 'h' is removed due to a trademark issue)",
   "version": "1.1",
 
   "browser_action": {
